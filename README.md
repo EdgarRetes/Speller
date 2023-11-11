@@ -1,2 +1,2 @@
 # Speller
-Program made in C that verifies each word in a text file with a dictionary to check how many words are misspelled .
+Developed a program in C called "Speller" designed to validate each word in a text file against a dictionary, assessing the count of misspelled words. The implementation involved efficient memory management techniques, utilizing tools like malloc and free to handle memory dynamically. The program also leveraged pointers and nodes for effective manipulation of data structures. To enhance the speed of word comparisons between the file and the dictionary, a bucket system was implemented, optimizing the search process for improved performance.
